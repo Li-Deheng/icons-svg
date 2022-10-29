@@ -11,7 +11,7 @@
 [6]: https://github.com/Li-Deheng/Icons-SVG/tree/main/Tencent
 [9]: https://github.com/Li-Deheng/Icons-SVG/tree/main/Others
 
-## <a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/Icons-SVG/tree/main/Adobe" target="_blank"><img style="width:22px; height:22px; pointer-events:none; cursor: default;" src="https://github.com/Li-Deheng/Icons-SVG/blob/main/Awesome/Download-Folder.svg" alt="Download" target="_blank"> Download Folder Adobe Icons</a>
+## <a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/Icons-SVG/tree/main/Adobe" title="Download with DownGit" target="_blank"><img style="width:22px; height:22px; pointer-events:none; cursor: default;" src="https://github.com/Li-Deheng/Icons-SVG/blob/main/Awesome/Download-Folder.svg" alt="Download" target="_blank"> Download Folder Adobe Icons</a>
 
 <img style="width:14px; height:14px; pointer-events:none; cursor: default;" src="https://github.com/Li-Deheng/Icons-SVG/blob/main/Directory.svg" alt="Directory" onclick="return false"> [**Apps**](https://github.com/Li-Deheng/Icons-SVG/tree/main/Adobe/Apps)
 
