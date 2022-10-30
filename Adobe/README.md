@@ -26,3 +26,28 @@
 
 
 <img style="width:14px; height:14px; pointer-events:none; cursor: default;" src="https://github.com/Li-Deheng/Icons-SVG/blob/main/Directory.svg" alt="Directory" onclick="return false"> [**Others**](https://github.com/Li-Deheng/Icons-SVG/tree/main/Adobe/Others)
+
+
+<div align="Center" id="badges">
+  <a href="#">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="#">
+    <img src="https://img.shields.io/badge/TikTok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  </a>
+</div>
