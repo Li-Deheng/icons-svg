@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 234">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000b1d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Surfaces">
+      <g id="Utility_Surface" data-name="Utility Surface">
+        <g id="Outline_no_shadow_copy_7" data-name="Outline no shadow copy 7">
+          <rect class="cls-1" width="240" height="234" rx="42.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Outlined_Mnemonics_Logos" data-name="Outlined Mnemonics &amp; Logos">
+      <g id="_3D_Object_Assets_Not_Pixel_Snapped_" data-name="3D Object Assets (Not Pixel Snapped)">
+        <path class="cls-2" d="M193.30405,80.573,152.78019,60.11681a4.47326,4.47326,0,0,0-4.00786-.01092l-29.0111,14.44443L90.7545,60.10589a4.47334,4.47334,0,0,0-4.00786.01092L46.21842,80.573a4.47051,4.47051,0,0,0-2.458,3.99039v48.62907a4.47,4.47,0,0,0,2.47108,3.99912l71.53015,35.77381a4.47558,4.47558,0,0,0,3.99912,0l71.53016-35.776a4.47,4.47,0,0,0,2.47107-3.99913V84.56559A4.4658,4.4658,0,0,0,193.30405,80.573ZM52.70171,91.802l62.58889,31.37522v38.54612L52.70171,130.42889Zm134.119,38.6269-62.58888,31.29444V123.17721L186.82075,91.802Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

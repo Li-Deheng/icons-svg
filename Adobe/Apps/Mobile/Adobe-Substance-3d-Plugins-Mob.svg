@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 234">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000b1d;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Surfaces">
+      <g id="Utility_Surface" data-name="Utility Surface">
+        <g id="Outline_no_shadow_copy_7" data-name="Outline no shadow copy 7">
+          <rect class="cls-1" width="240" height="234" rx="42.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Outlined_Mnemonics_Logos" data-name="Outlined Mnemonics &amp; Logos">
+      <g id="New_Plug-In" data-name="New Plug-In">
+        <g id="_1024" data-name="1024">
+          <path class="cls-2" d="M191.592,87.46234v66.59437a9.38828,9.38828,0,0,1-9.43916,9.43916H58.47757a9.45153,9.45153,0,0,1-9.51349-9.43916V87.46234a9.42345,9.42345,0,0,1,9.51349-9.40819h9.3958V63.67863a9.55085,9.55085,0,0,1,9.63116-9.43916h19.027a9.4496,9.4496,0,0,1,9.51349,9.43916V78.02318h28.751V63.67863a9.272,9.272,0,0,1,9.3029-9.43916h19.027a9.44959,9.44959,0,0,1,9.51348,9.43916V78.05415h9.51348A9.3602,9.3602,0,0,1,191.592,87.46234Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
