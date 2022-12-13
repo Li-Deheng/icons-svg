@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 //const async = require('async');
 
-fs.readdirSync('Google/Apps/', (err, data) => {
-	console.log(data);
+fs.readdir('Google/Apps', (err, data) => {
+	//console.log(data);
 	data.forEach( file => {
 		//console.log(file);
 		const fileNames = path.basename(file, '.svg');
@@ -14,10 +14,10 @@ fs.readdirSync('Google/Apps/', (err, data) => {
 		const titleLink = "\" title=\"";
 		const lastLink = "\" target=\"_blank\"> ";
 		const imgLink = openBlock+'\n'+firstLink+file+altLink+fileNames+titleLink+fileNames+lastLink+'\n'+closeBlock;
-		fs.writeFileSync('Google/Apps.md', imgLink, (err) => {
+		fs.writeFileSync('Google/icons.md', imgLink, (err) => {
 			if (err) console.log(err);
 		});
-		//console.log(fileName);
+		//console.log(fileNames);
 	});
 })
 
@@ -50,6 +50,9 @@ const oldSchemaMapping = function(language) {
 }
 
 
+fs.writeFile('Google/Apps.md', 'allName', (err) => {
+	if (err) console.log(err);
+});
 
 fs.writeFile('Google/Apps.md', allName, (err) => {
 	if (err) console.log(err);
