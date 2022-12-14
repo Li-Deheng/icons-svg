@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
   <defs>
     <style>
       .cls-1 {
@@ -16,7 +16,7 @@
       }
     </style>
   </defs>
-  <ellipse class="cls-2" cx="18" cy="18" rx="17.17" ry="16.92"/>
-  <ellipse class="cls-3" cx="18" cy="18" rx="10.3" ry="10.15"/>
-  <polygon class="cls-1" points="14.57 23 23.49 18 14.57 13 14.57 23"/>
+  <ellipse class="cls-2" cx="75" cy="75" rx="75.05" ry="73.96"/>
+  <ellipse class="cls-3" cx="75" cy="75" rx="45.02" ry="44.37"/>
+  <polygon class="cls-1" points="60.01 96.85 99 75 60.01 53.15 60.01 96.85"/>
 </svg>
