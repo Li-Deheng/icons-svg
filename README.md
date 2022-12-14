@@ -2,8 +2,9 @@
 
 <div align="center"><table><tbody><th align="center">
 <a href="https://github.com/Li-Deheng/icons-svg/tree/main/Awesome"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Awesome-Logo.svg" alt="Awesome"> <b>Awesome</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Adobe"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Adobe/Apps/Adobe-Logo.svg" alt="Adobe"> <b>Adobe</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Apps/google-logo.svg" alt="Google"> <b>Google</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Yandex"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Yandex/Yandex-Logo.svg" alt="Yandex"> <b>Yandex</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Baidu"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Baidu/Baidu-Logo.svg" alt="Baidu"> <b>Baidu</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Tencent"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Tencent/Tencent-Logo.svg" alt="Tencent"> <b>Tencent</b></a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Others"><img style="width:14px; height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/icons.svg" alt="Others"> <b>Others</b></a>
-</td></tr></tbody></table></div>
+</td></tr></tbody></table>
 
+<br><br>
 
 <div align="Center" id="badges">
   <a href="#">

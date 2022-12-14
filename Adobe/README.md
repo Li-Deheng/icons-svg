@@ -56,8 +56,9 @@
 
 <table><tbody><tr></tr><tr><td align="left">
 <img style="width:36px; height:36px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Adobe/Apps/Adobe-Logo.svg" alt="Adobe Logo" title="Adobe Logo" target="_blank">
-</td></tr></tbody></table><br>
+</td></tr></tbody></table>
 
+<br><br>
 
 <div align="Center" id="badges">
   <a href="#">
