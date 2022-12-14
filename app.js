@@ -9,7 +9,7 @@ const user = 'Li-Deheng'; // Ваше имя на GitHub
 const repo = 'icons-svg'; // Назва репозитория
 //============================================================================
 
-const openBlock = '\n\n'+'<table><tbody><tr></tr><tr><td align="left"></td>'+'\n';
+const openBlock = '\n\n'+'<table><tbody><tr></tr><tr><td align="left">'+'\n';
 fs.appendFileSync(res, `${openBlock}`, function (err) {
 	if (err) console.log(err);
 });
