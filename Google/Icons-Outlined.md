@@ -9,7 +9,7 @@
 ### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
 
 <div align="center"><table><tbody><th align="center">
-<a href="https://github.com/Li-Deheng/icons-svg/tree/main/Awesome">Awesome</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Adobe">Adobe</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Awesome">Google</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Yandex">Yandex</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Baidu">Baidu</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Tencent">Tencent</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Others"><b>Others</b></a>
+<a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-TwoTone">Two tone</a></th>
 </td></tr></tbody></table></div>
 
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
