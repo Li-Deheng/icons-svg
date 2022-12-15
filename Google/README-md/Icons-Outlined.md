@@ -9,7 +9,7 @@
 ### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
 
 <div align="center"><table><tbody><th align="center">
-<a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-TwoTone.md">Two tone</a></th>
+<a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th>
 </td></tr></tbody></table></div>
 
 <div align="center"><table><tbody><th align="center">
