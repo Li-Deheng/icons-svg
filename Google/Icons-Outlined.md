@@ -6,7 +6,7 @@
 
 ## <div align="center"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google" title="Download with DownGit" target="_blank"><img style="width:28px; height:28px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download" target="_blank"> <img style="height:22px;" src="https://img.shields.io/badge/Download%20All%20Google%20Icons-blue" alt="Folder Name"> <img style="height:18px;" src="https://img.shields.io/badge/548%20Mb-343940" title="Folder Size" alt="Folder Size"></a></div>
 
-### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
+### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
 
 <div align="center"><table><tbody><th align="center">
 <a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons-TwoTone">Two tone</a></th>
