@@ -13,7 +13,7 @@
 </td></tr></tbody></table></div>
 
 <div align="center"><table><tbody><th align="center">
-<a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Action.md">Action</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Alert.md">Alert</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Audio&Video.md">Audio & Video</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Communication.md">Communication</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Content.md">Content</a></th>
+<a>All</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Action.md">Action</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Alert.md">Alert</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Audio&Video.md">Audio & Video</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Communication.md">Communication</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/Icons-Outlined-Content.md">Content</a></th>
 </td></tr></tbody></table></div>
 
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
