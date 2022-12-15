@@ -6,6 +6,12 @@
 
 ## <div align="center"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google" title="Download with DownGit" target="_blank"><img style="width:28px; height:28px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download" target="_blank"> <img style="height:22px;" src="https://img.shields.io/badge/Download%20All%20Google%20Icons-blue" alt="Folder Name"> <img style="height:18px;" src="https://img.shields.io/badge/548%20Mb-343940" title="Folder Size" alt="Folder Size"></a></div>
 
+### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
+
+<div align="center"><table><tbody><th align="center">
+<a href="https://github.com/Li-Deheng/icons-svg/tree/main/Awesome">Awesome</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Adobe">Adobe</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Awesome">Google</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Yandex">Yandex</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Baidu">Baidu</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Tencent">Tencent</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Others"><b>Others</b></a>
+</td></tr></tbody></table></div>
+
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
 <div><div align="left"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Download with DownGit" target="_blank"><img style="width:24px; height:24px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download Directory"> <img style="height:18px;" src="https://img.shields.io/badge/Download%20All%20Apps%20Icons-blue" alt="Folder Name"> <img style="height:16px;" src="https://img.shields.io/badge/1,4%20Mb-343940" alt="Folder Size"></a><img align="right" style="height:18px;" src="https://img.shields.io/badge/Icons-209-blue?logo=svg&logoColor=49b6ff" title="Total Number" alt="Apps Icons"></div>
 
