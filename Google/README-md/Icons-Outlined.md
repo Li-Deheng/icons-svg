@@ -17,19 +17,20 @@
 </td></tr></tbody></table></div>
 
   
-  
-<details data-view-component="true" class="details-overlay details-reset position-relative d-block" open="">
+<table><tbody><th>
+<details data-view-component="true" class="details-overlay details-reset position-relative d-block" align="left">
   <summary role="button" data-view-component="true" class="btn ml-2">    
-    <span class="d-none d-md-flex flex-items-center">Add file</span>
+    <span class="d-none d-md-flex flex-items-center"><a>All</a></span>
   </summary>
   <div data-view-component="true">
     <ul class="dropdown-menu dropdown-menu-sw">
-      <table><tbody>
-        <th><a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></th>
-      </tbody></table>
+      <li>
+        <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a>
+      </li>
     </ul>
   </div>
 </details>
+</th></tbody></table>
 
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
 <div><div align="left"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Download with DownGit" target="_blank"><img style="width:24px; height:24px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download Directory"> <img style="height:18px;" src="https://img.shields.io/badge/Download%20All%20Apps%20Icons-blue" alt="Folder Name"> <img style="height:16px;" src="https://img.shields.io/badge/1,4%20Mb-343940" alt="Folder Size"></a><img align="right" style="height:18px;" src="https://img.shields.io/badge/Icons-209-blue?logo=svg&logoColor=49b6ff" title="Total Number" alt="Apps Icons"></div>
