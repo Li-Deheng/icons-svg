@@ -10,24 +10,28 @@
 
 <div align="center"><table><tbody><th align="center">
 <a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th>
-</td></tr></tbody></table></div>
-
-<div align="center"><table><tbody>
-<th><a>All</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio&Video</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md">Communication</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md">Content</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Device.md">Device</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Editor.md">Editor</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-File.md">File</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Hardware.md">Hardware</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Home.md">Home</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Image.md">Image</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Maps.md">Maps</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Navigation.md">Navigation</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Notification</a></th>
-</td></tr></tbody></table></div>
-  
-<table><tbody><tr></tr><th>
-<details data-view-component="true" class="details-overlay details-reset position-relative d-block" align="left">
-  <summary role="button" bgcolog="CCCCCC" data-view-component="true" class="btn ml-2">    
-    <a>&nbspAll</a>
-  </summary>
-  <div data-view-component="true">
-    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
-    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
-    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
-  </div>
+</td></tr><th>
+<details align="left"><summary>&nbsp<code>All Icons</code></summary>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio & Video</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md">Communication</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md">Content</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Device.md">Device</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Editor.md">Editor</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-File.md">File</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Hardware.md">Hardware</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Home.md">Home</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Image.md">Image</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Maps.md">Maps</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Navigation.md">Navigation</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Notification</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Places</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Search</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Social</a><br>
+  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Toggle</a><br>
 </details>
-</th></tbody></table>
+</th></tbody></table></div>
 
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
 <div><div align="left"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Download with DownGit" target="_blank"><img style="width:24px; height:24px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download Directory"> <img style="height:18px;" src="https://img.shields.io/badge/Download%20All%20Apps%20Icons-blue" alt="Folder Name"> <img style="height:16px;" src="https://img.shields.io/badge/1,4%20Mb-343940" alt="Folder Size"></a><img align="right" style="height:18px;" src="https://img.shields.io/badge/Icons-209-blue?logo=svg&logoColor=49b6ff" title="Total Number" alt="Apps Icons"></div>
