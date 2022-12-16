@@ -12,7 +12,7 @@
 <a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th>
 </td></tr><th>
 <details align="left"><summary>&nbsp<span>All</span></summary>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a><br>
+  <img style="width:28px; height:28px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/communication/list_alt/materialiconsround/24px.svg" alt="All"><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio & Video</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md">Communication</a><br>
