@@ -17,20 +17,20 @@
   <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/warning_amber_white_24dp.svg" alt="Alert"> Alert</a></dd>
   <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/play_circle_white_24dp.svg" alt="Audio&Video"> Audio & Video</a></dd>
   <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/forum_white_24dp.svg" alt="Communication"> Communication</a><br></dd>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md">Content</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Device.md">Device</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Editor.md">Editor</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-File.md">File</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Hardware.md">Hardware</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Home.md">Home</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Image.md">Image</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Maps.md">Maps</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Navigation.md">Navigation</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Notification</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Places</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Search</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Social</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Toggle</a><br>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/how_to_vote_white_24dp.svg" alt="Content"> Content</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Device.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/devices_white_24dp.svg" alt="Device"> Device</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Editor.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/border_color_white_24dp.svg" alt="Editor"> Editor</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-File.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/folder_white_24dp.svg" alt="File"> File</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Hardware.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/smart_toy_white_24dp.svg" alt="Hardware"> Hardware</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Home.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/broadcast_on_personal_white_24dp.svg" alt="Home"> Home</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Image.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/image_white_24dp.svg" alt="Image"> Image</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Maps.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/map_white_24dp.svg" alt="Maps"> Maps</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Navigation.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/menu_open_white_24dp.svg" alt="Navigation"> Navigation</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/support_agent_white_24dp.svg" alt="Notification"> Notification</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/balcony_white_24dp.svg" alt="Places"> Places</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/manage_search_white_24dp.svg" alt="Search"> Search</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/groups_white_24dp.svg" alt="Social"> Social</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/star_border_white_24dp.svg" alt="Toggle"> Toggle</a></dd>
 </details>
 </th></tbody></table>
 
