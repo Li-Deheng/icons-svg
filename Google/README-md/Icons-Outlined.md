@@ -9,11 +9,12 @@
 ### <div align="center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google" alt="Apps">Apps</a> • <a alt="Material Icons">Icons</a></div>
 
 <div align="center"><table><tbody><th align="center">
-<a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th>
-</td></tr><th>
-<details align="left"><summary>&nbsp<span>All</span></summary>
-  <img style="width:28px; height:28px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/Icons/communication/list_alt/materialiconsround/24px.svg" alt="All"><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a><br>
-  <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a><br>
+<a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th></tbody></table></div>
+
+<table align="center"><tbody><tr></tr><th>
+<details align="left"><summary>&nbsp<span>All Material Icons</span></summary>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/ads_click_white_24dp.svg" alt="Action"> Action</a></dd>
+  <dd><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md"><img style="height:14px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/dropdown-icons/ads_click_white_24dp.svg" alt="Alert"> Alert</a></dd>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio & Video</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md">Communication</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md">Content</a><br>
@@ -31,7 +32,7 @@
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Social</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Toggle</a><br>
 </details>
-</th></tbody></table></div>
+</th></tbody></table>
 
 <div align="Center"><a href="https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Open Directory: Apps"><img style="width:15px; height:15px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Directory.svg" alt="Directory"> <b>APPS</b></a></div>
 <div><div align="left"><a href="https://downgit.github.io/#/home?url=https://github.com/Li-Deheng/icons-svg/tree/main/Google/Apps" title="Download with DownGit" target="_blank"><img style="width:24px; height:24px;" src="https://github.com/Li-Deheng/icons-svg/blob/main/Awesome/Download-Folder.svg" alt="Download Directory"> <img style="height:18px;" src="https://img.shields.io/badge/Download%20All%20Apps%20Icons-blue" alt="Folder Name"> <img style="height:16px;" src="https://img.shields.io/badge/1,4%20Mb-343940" alt="Folder Size"></a><img align="right" style="height:18px;" src="https://img.shields.io/badge/Icons-209-blue?logo=svg&logoColor=49b6ff" title="Total Number" alt="Apps Icons"></div>
