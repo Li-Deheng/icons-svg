@@ -24,7 +24,7 @@ fs.readdirSync(source).forEach(file => {
 		}
 		const words = editWords.join(' ');
 		const title = words.replace(',', ' ');
-		const imgLink = `<img style="width:36px; height:36px;" src="https://github.com/${user}/${repo}/blob/main/${source}/${file}" alt="${title}" title="${title}" target="_blank"> `;
+		const imgLink = `<img style="height:36px;" src="https://github.com/${user}/${repo}/blob/main/${source}/${file}" alt="${title}" title="${title}"> `;
 		fs.writeFileSync(res, `${imgLink}`, {flag: 'as'}, function (err) {
 			if (err) console.log(err);
 		});
