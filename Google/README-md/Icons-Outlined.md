@@ -17,17 +17,15 @@
 </td></tr></tbody></table></div>
 
   
-<table><tbody><th>
+<table><tbody><tr></tr><th>
 <details data-view-component="true" class="details-overlay details-reset position-relative d-block" align="left">
-  <summary role="button" data-view-component="true" class="btn ml-2">    
-    <span class="d-none d-md-flex flex-items-center"><a>All</a></span>
+  <summary role="button" bgcolog="CCCCCC" data-view-component="true" class="btn ml-2">    
+    <a>All</a>
   </summary>
   <div data-view-component="true">
-    <ul class="dropdown-menu dropdown-menu-sw">
       <li>
         <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a>
       </li>
-    </ul>
   </div>
 </details>
 </th></tbody></table>
