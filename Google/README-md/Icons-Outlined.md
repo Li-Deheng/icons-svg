@@ -15,17 +15,16 @@
 <div align="center"><table><tbody>
 <th><a>All</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio&Video</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Communication.md">Communication</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Content.md">Content</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Device.md">Device</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Editor.md">Editor</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-File.md">File</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Hardware.md">Hardware</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Home.md">Home</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Image.md">Image</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Maps.md">Maps</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Navigation.md">Navigation</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Notification.md">Notification</a></th>
 </td></tr></tbody></table></div>
-
   
 <table><tbody><tr></tr><th>
 <details data-view-component="true" class="details-overlay details-reset position-relative d-block" align="left">
   <summary role="button" bgcolog="CCCCCC" data-view-component="true" class="btn ml-2">    
-    <a>All</a>
+    <a>&nbspAll</a>
   </summary>
   <div data-view-component="true">
-      <li>
-        <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a>
-      </li>
+    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
+    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
+    <a class="dropdown-item" href="/Li-Deheng/icons-svg/find/main">Go to file</a></span><br>
   </div>
 </details>
 </th></tbody></table>
