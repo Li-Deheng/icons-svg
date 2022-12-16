@@ -11,7 +11,7 @@
 <div align="center"><table><tbody><th align="center">
 <a>Outlined</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Filled.md">Filled</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Rounded.md">Rounded</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Sharp.md">Sharp</a></th><th><a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-TwoTone.md">Two tone</a></th>
 </td></tr><th>
-<details align="left"><summary>&nbsp<code>All Icons</code></summary>
+<details align="left"><summary>&nbsp<span>All</span></summary>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Action.md">Action</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Alert.md">Alert</a><br>
   <a href="https://github.com/Li-Deheng/icons-svg/blob/main/Google/README-md/Icons-Outlined-Audio&Video.md">Audio & Video</a><br>
